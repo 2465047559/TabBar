@@ -1,0 +1,2 @@
+webpackJsonp([2],{Pfak:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("我的")])},staticRenderFns:[]};var r=n("VU/8")({name:"Profile",message:""},s,!1,function(e){n("X8su")},"data-v-53cbf174",null);t.default=r.exports},X8su:function(e,t){}});
+//# sourceMappingURL=2.0881103309dbd2844ccb.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0],{PwXB:function(e,t){},YZJo:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("分类")])},staticRenderFns:[]};var r=n("VU/8")({name:"Category",message:""},a,!1,function(e){n("PwXB")},"data-v-b3a9f8f2",null);t.default=r.exports}});
+//# sourceMappingURL=0.aa6e16c15f84e9fe14e5.js.map
